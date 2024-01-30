@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/stex1/reverse_tower_defense/Reverse_TowerDefense/Content/BluePrint/BP_Unit.uasset",
+				"C:/Users/stex1/reverse_tower_defense/Reverse_TowerDefense/Content/BluePrint/BP_PathBlock.uasset",
+				"C:/Users/stex1/reverse_tower_defense/Reverse_TowerDefense/Content/Maps/MainScene.umap",
+				"C:/Users/stex1/reverse_tower_defense/Reverse_TowerDefense/Content/BluePrint/E_PathDirection.uasset",
 				"D:/Fork Source/reverse_tower_defense/Reverse_TowerDefense/Content/BluePrint/BP_GridBlock.uasset",
 				"D:/Fork Source/reverse_tower_defense/Reverse_TowerDefense/Content/Materials/MM_MonoColor.uasset",
 				"D:/Fork Source/reverse_tower_defense/Reverse_TowerDefense/Content/BluePrint/BP_GridSpawner.uasset",
